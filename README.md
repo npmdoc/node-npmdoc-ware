@@ -1,6 +1,6 @@
 # npmdoc-ware
 
-#### api documentation for  [ware (v1.3.0)](https://github.com/segmentio/ware)  [![npm package](https://img.shields.io/npm/v/npmdoc-ware.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ware) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ware.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ware)
+#### basic api documentation for  [ware (v1.3.0)](https://github.com/segmentio/ware)  [![npm package](https://img.shields.io/npm/v/npmdoc-ware.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ware) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ware.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ware)
 
 #### Easily create your own middleware layer.
 
@@ -73,7 +73,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "1.3.0"
+    "version": "1.3.0",
+    "bin": {}
 }
 ```
 
